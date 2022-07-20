@@ -1,5 +1,5 @@
 {
-  "name": "pokayeSS",
+  "name": "hbtrsyr6tyg",
   "version": "4.0.2",
   "description": "Shadowsocks over WebSocket",
   "scripts": {
@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/isfruitage/pokayeSS.git"
+    "url": "https://github.com/hellply/hbtrsyr6tyg.git"
   },
-  "homepage": "https://github.com/isfruitage/pokayeSS",
+  "homepage": "https://github.com/hellply/hbtrsyr6tyg",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
